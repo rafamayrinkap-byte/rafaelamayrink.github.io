@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rafaela Mayrink | Advocacia Trabalhista</title>
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: linear-gradient(180deg, #000000, #0f0f0f);
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+    }
+
+    .container {
+        width: 100%;
+        max-width: 420px;
+        padding: 24px 20px 40px;
+        text-align: center;
+    }
+
+    .photo {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 3px solid #c9a35b;
+        margin: 10px auto;
+    }
+
+    .logo {
+        width: 110px;
+        margin: 16px auto 10px;
+        display: block;
+    }
+
+    h1 {
+        font-size: 20px;
+        margin: 12px 0 6px;
+        font-weight: 600;
+    }
+
+    h2 {
+        font-size: 14px;
+        font-weight: 400;
+        color: #c9a35b;
+        margin: 0 0 24px;
+    }
+
+    .button {
+        display: block;
+        width: 100%;
+        padding: 14px;
+        margin-bottom: 14px;
+        background: transparent;
+        border: 1.5px solid #c9a35b;
+        border-radius: 30px;
+        color: #ffffff;
+        text-decoration: none;
+        font-size: 15px;
+        transition: all 0.3s ease;
+    }
+
+    .button:hover {
+        background: #c9a35b;
+        color: #000;
+        font-weight: 600;
+    }
+
+    .footer {
+        margin-top: 30px;
+        font-size: 12px;
+        color: #aaaaaa;
+    }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- FOTO -->
+    <img src="IMG_2448.jpeg" alt="Rafaela Mayrink" class="photo">
+
+    <!-- LOGOMARCA -->
+    <img src="IMG_2444.png" alt="Logomarca Rafaela Mayrink" class="logo">
+
+    <h1>Rafaela Mayrink</h1>
+    <h2>Advocacia Trabalhista Especializada</h2>
+
+    <a class="button" href="https://wa.me/5531999175177" target="_blank">
+        📞 Atendimento via WhatsApp
+    </a>
+
+    <a class="button" href="https://www.google.com/maps/search/?api=1&query=Rua+João+Morato+de+Faria,+172,+Centro,+Divinópolis+MG" target="_blank">
+        📍 Endereço do Escritório
+    </a>
+
+    <a class="button" href="https://rafalaw-gj5gsup5.manus.space/" target="_blank">
+        🌐 Site Oficial
+    </a>
+
+    <a class="button" href="https://instagram.com/rafaelamayrink.advtrabalhista" target="_blank">
+        📸 Instagram
+    </a>
+
+    <div class="footer">
+        Atendimento ético, estratégico e personalizado<br>
+        Direito do Trabalho
+    </div>
+
+</div>
+
+</body>
+</html>
